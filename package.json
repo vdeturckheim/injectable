@@ -1,0 +1,17 @@
+{
+  "name": "injectable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "injector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-remote-interface": "^0.28.2",
+    "shimmer": "^1.2.1"
+  }
+}
